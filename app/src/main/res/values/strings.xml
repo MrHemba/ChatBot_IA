@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">ChatBot IA</string>
+    <string name="conversaci_n">Conversación:</string>
+    <string name="enviar">Enviar</string>
+    <string name="escribe_tu_mensaje_aqu">Escribe tu mensaje aquí</string>
 </resources>
